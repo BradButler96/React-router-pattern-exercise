@@ -1,0 +1,8 @@
+.colors-ul {
+    list-style-type: none;
+    padding: 0;
+    width: 100vw;}
+
+.colors-li {
+    text-decoration: none;
+}

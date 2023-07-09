@@ -1,0 +1,31 @@
+#new-color-form {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding: 2rem;
+    background-color: gray;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.color-name-input {
+    width: 25vw;
+}
+
+.color-code-container {
+    display: flex; 
+    align-items: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+
+}
+
+.color-code-input {
+    width: 12.5vw;
+    height: 2rem;
+    padding: 0;
+    border: 0;
+}
+
+.form-label {
+    margin-right: 0.5rem;
+}
